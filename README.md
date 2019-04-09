@@ -1,4 +1,4 @@
-# icons-and-symbols
+# icons and symbols
 
 ## Azure Data Factory - Mapping Data Flow
 This folder contains icons specifically for (Mapping) Data Flow. 
