@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>i-20x20-Aggregate</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#92D846" offset="0%"></stop>
+            <stop stop-color="#4B8400" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="-78.7784608%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#92D846" offset="0%"></stop>
+            <stop stop-color="#4B8400" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="i-20x20-Aggregate" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Page-1" transform="translate(2.916667, 5.416667)">
+            <path d="M6.97283333,4.62592927e-16 L10.8715833,4.62592927e-16 C11.3318206,3.78048708e-16 11.7049167,0.373096042 11.7049167,0.833333333 L11.7049167,5.2275 C11.7049167,5.68773729 11.3318206,6.06083333 10.8715833,6.06083333 L6.97283333,6.06083333 C6.51259604,6.06083333 6.1395,5.68773729 6.1395,5.2275 L6.1395,0.833333333 C6.1395,0.373096042 6.51259604,8.45442189e-17 6.97283333,4.62592927e-16 Z" id="Rectangle-24-Copy" fill="url(#linearGradient-1)" fill-rule="nonzero" opacity="0.33"></path>
+            <polygon id="Stroke-4" fill="url(#linearGradient-2)" fill-rule="nonzero" points="4.47529167 6.927875 5.56529167 6.927875 5.56529167 9.01954167 -0.000125 9.01954167 -0.000125 8.36550093 0.0375919187 8.30817122 0.0595655406 8.27478817 2.64596665 4.41941131 0.399458333 0.831618607 0.399458333 0.107875 5.34070833 0.107875 5.34070833 2.19870833 4.25029167 2.19870833 4.25029167 1.320375 2.10134746 1.320375 4.03963508 4.42046988 1.78337793 7.81245833 4.47529167 7.81245833"></polygon>
+            <polygon id="Fill-1" fill="url(#linearGradient-1)" points="7.5 8.9775 13.6033333 8.9775 10.5516667 2.91666667"></polygon>
+        </g>
+    </g>
+</svg>

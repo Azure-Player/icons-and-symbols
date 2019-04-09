@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>i-20x20-Sink</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#4DA4E8" offset="0%"></stop>
+            <stop stop-color="#0766C0" offset="100%"></stop>
+        </linearGradient>
+        <path d="M0.833333333,4.16666667 C0.373096042,4.16666667 0,4.53976271 0,5 L0,3.435875 C-5.63628126e-17,2.97563771 0.373096042,2.60254167 0.833333333,2.60254167 L4.104625,2.60254167 L4.104625,0.403375101 L7.75045833,3.31975313 L4.104625,6.23670843 L4.104625,4.150625 L0.833333333,4.150625 L0.833333333,4.16666667 Z" id="path-2"></path>
+        <filter x="-90.3%" y="-85.7%" width="280.6%" height="340.0%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.208333333 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="i-20x20-Sink" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-4" transform="translate(4.583333, 3.750000)">
+            <path d="M11.25,0.833333333 L11.25,10.4166667 L11.2361598,10.4166667 C11.2453353,10.4507431 11.25,10.4851415 11.25,10.519822 C11.25,11.3256235 8.7316875,11.9791667 5.625,11.9791667 C2.5183125,11.9791667 0,11.3256235 0,10.519822 C0,10.4851415 0.00466469546,10.4507431 0.0138402306,10.4166667 L0,10.4166667 L0,0.833333333 C0,0.373194444 2.5183125,0 5.625,0 C8.7316875,0 11.25,0.373194444 11.25,0.833333333 Z" id="Combined-Shape" fill="url(#linearGradient-1)"></path>
+            <path d="M11.25,0.833333333 C11.25,1.29347222 8.7316875,1.66666667 5.625,1.66666667 C2.5183125,1.66666667 0,1.29347222 0,0.833333333 C0,0.373194444 2.5183125,0 5.625,0 C8.7316875,0 11.25,0.373194444 11.25,0.833333333" id="Fill-2" fill="#87C9FA"></path>
+        </g>
+        <g id="Page-1" transform="translate(4.583333, 7.916667)" opacity="0.663839286">
+            <g id="Combined-Shape">
+                <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-2"></use>
+            </g>
+        </g>
+    </g>
+</svg>

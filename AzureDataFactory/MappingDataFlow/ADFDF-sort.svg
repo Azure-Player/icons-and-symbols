@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>i-20x20-Sort</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="-69.407332%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FAD961" offset="0%"></stop>
+            <stop stop-color="#F76B1C" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#FAD961" offset="0%"></stop>
+            <stop stop-color="#F76B1C" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="i-20x20-Sort" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(3.750000, 3.750000)">
+            <polygon id="Combined-Shape" fill="url(#linearGradient-1)" points="2.15517241 7.75862069 2.15517241 0.862068966 3.44827586 0.862068966 3.44827586 7.75862069 5.60344828 7.75862069 2.80172414 12.5 1.88293825e-13 7.75862069"></polygon>
+            <polygon id="Stroke-3" fill="url(#linearGradient-2)" fill-rule="nonzero" opacity="0.646986607" points="7.60686609 6.08538823 5.17241379 6.08538823 8.8362069 0 12.5 6.08538823 10.0990329 6.08538823 10.0990329 12.5 7.60686609 12.5"></polygon>
+        </g>
+    </g>
+</svg>

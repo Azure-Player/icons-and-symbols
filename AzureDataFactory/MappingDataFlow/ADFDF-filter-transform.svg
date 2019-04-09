@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>i-20x20-Filter</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FAD961" offset="0%"></stop>
+            <stop stop-color="#F76B1C" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="-41.8668374%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#FAD961" offset="0%"></stop>
+            <stop stop-color="#F76B1C" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="i-20x20-Filter" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Page-1" transform="translate(4.166667, 5.000000)" fill="url(#linearGradient-1)">
+            <polygon id="Fill-1" points="0 0 0 1.87925678 4.76361717 5.38060364 4.76361717 10.8333333 7.3192347 10.8333333 7.3192347 5.38060364 12.0833333 1.87925678 12.0833333 0"></polygon>
+        </g>
+        <path d="M16.25,5 C16.25,5.46013889 13.5451458,5.83333333 10.2083333,5.83333333 C6.87152083,5.83333333 4.16666667,5.46013889 4.16666667,5 C4.16666667,4.53986111 6.87152083,4.16666667 10.2083333,4.16666667 C13.5451458,4.16666667 16.25,4.53986111 16.25,5" id="Fill-2" fill="url(#linearGradient-2)"></path>
+    </g>
+</svg>

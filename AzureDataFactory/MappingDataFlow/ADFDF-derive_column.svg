@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>i-20x20-Derive_Column</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#92D846" offset="0%"></stop>
+            <stop stop-color="#4B8400" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="-104.985274%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#92D846" offset="0%"></stop>
+            <stop stop-color="#4B8400" offset="100%"></stop>
+        </linearGradient>
+        <path d="M4.16666667,4.58333333 L9.58333333,4.58333333 C10.0435706,4.58333333 10.4166667,4.95642938 10.4166667,5.41666667 L10.4166667,8.33333333 C10.4166667,8.79357062 10.0435706,9.16666667 9.58333333,9.16666667 L4.16666667,9.16666667 C3.70642938,9.16666667 3.33333333,8.79357062 3.33333333,8.33333333 L3.33333333,5.41666667 C3.33333333,4.95642938 3.70642938,4.58333333 4.16666667,4.58333333 Z" id="path-3"></path>
+        <filter x="-98.8%" y="-109.1%" width="297.6%" height="405.5%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.211956522 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="0%" y1="0%" x2="100%" y2="100%" id="linearGradient-5">
+            <stop stop-color="#BBCEA3" offset="0%"></stop>
+            <stop stop-color="#4B8400" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="i-20x20-Derive_Column" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Page-1" transform="translate(6.250000, 9.166667)"></g>
+        <path d="M5.41666667,3.75 L8.33333333,3.75 C8.79357062,3.75 9.16666667,4.12309604 9.16666667,4.58333333 L9.16666667,9.16666667 C9.16666667,9.62690396 8.79357062,10 8.33333333,10 L5.41666667,10 C4.95642938,10 4.58333333,9.62690396 4.58333333,9.16666667 L4.58333333,4.58333333 C4.58333333,4.12309604 4.95642938,3.75 5.41666667,3.75 Z" id="Rectangle-24" fill="url(#linearGradient-1)" fill-rule="nonzero" opacity="0.5"></path>
+        <path d="M13.3333333,9.16666667 L15.8333333,9.16666667 C16.2935706,9.16666667 16.6666667,9.53976271 16.6666667,10 L16.6666667,15.4166667 C16.6666667,15.876904 16.2935706,16.25 15.8333333,16.25 L13.3333333,16.25 C12.873096,16.25 12.5,15.876904 12.5,15.4166667 L12.5,10 C12.5,9.53976271 12.873096,9.16666667 13.3333333,9.16666667 Z" id="Rectangle-24-Copy" fill="url(#linearGradient-2)" fill-rule="nonzero" opacity="0.9"></path>
+        <g id="Rectangle-24" opacity="0.6" fill-rule="nonzero">
+            <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+            <use fill="url(#linearGradient-1)" xlink:href="#path-3"></use>
+        </g>
+        <g id="Group-12" transform="translate(6.250000, 9.583333)">
+            <g id="Group">
+                <polygon id="Combined-Shape" fill="#4F8707" points="3.565875 4.58333333 6.11920833 3.20171609 3.565875 1.81970833"></polygon>
+                <path d="M0.233987935,0 L1.06472494,0.0634163669 C0.909536297,1.95573299 1.69310021,2.7950573 3.56744704,2.76334603 L3.58205804,3.56721973 C1.20733578,3.60739664 0.0406356252,2.35767115 0.233987935,0 Z" id="Path-15" fill="url(#linearGradient-5)" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

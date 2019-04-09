@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>E-Icons/Data_Flow-Icons/i-20x20-Un-pivot</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#92D846" offset="0%"></stop>
+            <stop stop-color="#4B8400" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="E-Icons/Data_Flow-Icons/i-20x20-Un-pivot" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(3.000000, 3.000000)">
+            <g id="files_PivotTable_PivotTable_16x" fill="url(#linearGradient-1)" fill-rule="nonzero">
+                <path d="M13.3,4.2 L0.7,4.2 C0.313400675,4.2 2.69389368e-16,3.88659932 2.22044605e-16,3.5 L0,0.7 C-4.73447626e-17,0.313400675 0.313400675,1.82039446e-16 0.7,1.11022302e-16 L13.3,1.11022302e-16 C13.6865993,-9.90102374e-16 14,0.313400675 14,0.7 L14,3.5 C14,3.88659932 13.6865993,4.2 13.3,4.2 Z" id="iconBg-path"></path>
+                <path d="M3.5,14 L0.7,14 C0.313400675,14 4.73447626e-17,13.6865993 0,13.3 L0,4.9 C-4.73447626e-17,4.51340068 0.313400675,4.2 0.7,4.2 L3.5,4.2 C3.88659932,4.2 4.2,4.51340068 4.2,4.9 L4.2,13.3 C4.2,13.6865993 3.88659932,14 3.5,14 Z" id="iconBg-path" opacity="0.492410714"></path>
+            </g>
+            <path d="M8.4,11.8704941 L8.4,14 L5.6,11.2 L8.4,8.4 L8.4,10.5146519 L11.4157571,10.5146519 C11.8023564,10.5146519 12.1157571,10.2111363 12.1157571,9.83673088 L12.1157571,6.02678378 L13.5157571,6.02678378 L13.5157571,9.83673088 C13.5157571,10.9599473 12.575555,11.8704941 11.4157571,11.8704941 L8.4,11.8704941 Z" id="Combined-Shape" fill="#4F8707"></path>
+        </g>
+    </g>
+</svg>

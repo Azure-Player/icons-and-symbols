@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>i-20x20-Custom tranform</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#AFAFAF" offset="0%"></stop>
+            <stop stop-color="#636363" offset="100%"></stop>
+        </linearGradient>
+        <polygon id="path-2" points="4.16666667 2.77777778 2.77777778 2.77777778 2.77777778 4.16666667 1.38888889 4.16666667 1.38888889 2.77777778 0 2.77777778 0 1.38888889 1.38888889 1.38888889 1.38888889 0 2.77777778 0 2.77777778 1.38888889 4.16666667 1.38888889"></polygon>
+        <filter x="-168.0%" y="-120.0%" width="436.0%" height="436.0%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.218721694 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="0%" id="linearGradient-4">
+            <stop stop-color="#000000" stop-opacity="0.020238904" offset="0%"></stop>
+            <stop stop-color="#000000" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="i-20x20-Custom-tranform" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M4.16666667,2.91666667 L15.8333333,2.91666667 C16.5236893,2.91666667 17.0833333,3.47631073 17.0833333,4.16666667 L17.0833333,15.8333333 C17.0833333,16.5236893 16.5236893,17.0833333 15.8333333,17.0833333 L4.16666667,17.0833333 C3.47631073,17.0833333 2.91666667,16.5236893 2.91666667,15.8333333 L2.91666667,4.16666667 C2.91666667,3.47631073 3.47631073,2.91666667 4.16666667,2.91666667 Z" id="Rectangle-19" fill="url(#linearGradient-1)" fill-rule="nonzero"></path>
+        <g id="files_AddCustomControl_AddCustomControl_16x" transform="translate(4.166667, 4.166667)" fill-rule="nonzero" opacity="0.8">
+            <g id="colorAction">
+                <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                <use fill="#FFFFFF" xlink:href="#path-2"></use>
+            </g>
+        </g>
+        <g id="Group-11-Copy-2" transform="translate(11.567281, 11.251715) rotate(45.000000) translate(-11.567281, -11.251715) translate(9.483948, 4.793382)">
+            <g id="Group-10" fill="#FFFFFF">
+                <polygon id="Triangle-2" points="2.00482714 12.8308937 0 9.84696492 4.00965428 9.84696492"></polygon>
+                <polygon id="Rectangle-17" opacity="0.498270089" points="0 1.48048773 4.00965428 1.48048773 4.00965428 9.84696492 0 9.84696492"></polygon>
+                <path d="M4.00965428,1.48048773 C4.00965428,0.662836936 3.11206259,0 2.00482714,0 C0.897591684,0 0,0.662836936 0,1.48048773 C2.00482714,1.48048773 2.00482714,1.48048773 4.00965428,1.48048773 Z" id="Combined-Shape" opacity="0.802957589"></path>
+            </g>
+            <polygon id="Rectangle-18" fill="#FFFFFF" opacity="0.368582589" points="0 1.48048773 4.00965428 1.48048773 4.00965428 2.46747955 0 2.46747955"></polygon>
+            <polygon id="Rectangle-18-Copy" fill="url(#linearGradient-4)" opacity="0.2" points="0 2.46747955 4.00965428 2.46747955 4.00965428 3.21265837 0 3.21265837"></polygon>
+            <polygon id="Rectangle-18-Copy-3" fill="url(#linearGradient-4)" opacity="0.0808035714" points="0 1.48699182 0 0.986991822 4.00965428 0.986991822 4.00965428 1.48699182"></polygon>
+            <polygon id="Rectangle-18-Copy-2" fill="url(#linearGradient-4)" opacity="0.134430804" points="-3.63797881e-12 9.84696492 4.00965428 9.84696492 3.44372707 10.5929471 0.493405123 10.5929471"></polygon>
+        </g>
+    </g>
+</svg>
