@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>E-Icons/Data_Flow-Icons/i-20x20-Alter row</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FAD961" offset="0%"></stop>
+            <stop stop-color="#F76B1C" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="64.6659381%" id="linearGradient-2">
+            <stop stop-color="#FAD961" offset="0%"></stop>
+            <stop stop-color="#E55300" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="67.603012%" id="linearGradient-3">
+            <stop stop-color="#E9C236" offset="0%"></stop>
+            <stop stop-color="#DE580C" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="E-Icons/Data_Flow-Icons/i-20x20-Alter-row" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(4.800000, 4.800000)" fill="url(#linearGradient-1)" fill-rule="nonzero" opacity="0.702371652">
+            <g id="files_PivotTable_PivotTable_16x">
+                <path d="M24.72,9.408 L1.68,9.408 C0.75216162,9.408 -1.08417175e-16,8.65583838 -2.22044605e-16,7.728 L4.4408921e-16,1.68 C3.3046178e-16,0.75216162 0.75216162,-5.16034596e-17 1.68,-2.22044605e-16 L24.72,0 C25.6478384,-1.70441145e-16 26.4,0.75216162 26.4,1.68 L26.4,7.728 C26.4,8.65583838 25.6478384,9.408 24.72,9.408 Z" id="iconBg-path"></path>
+            </g>
+        </g>
+        <g id="Group-Copy-2" transform="translate(4.800000, 33.600000)" fill="url(#linearGradient-1)" fill-rule="nonzero" opacity="0.300571987">
+            <g id="files_PivotTable_PivotTable_16x">
+                <path d="M10.32,9.408 L1.68,9.408 C0.75216162,9.408 -1.08417175e-16,8.65583838 -2.22044605e-16,7.728 L-2.22044605e-16,1.68 C-3.35672035e-16,0.75216162 0.75216162,1.70441145e-16 1.68,0 L10.32,0 C11.2478384,-1.70441145e-16 12,0.75216162 12,1.68 L12,7.728 C12,8.65583838 11.2478384,9.408 10.32,9.408 Z" id="iconBg-path"></path>
+            </g>
+        </g>
+        <g id="Group-Copy-3" transform="translate(4.800000, 19.200000)" fill="url(#linearGradient-1)" fill-rule="nonzero" opacity="0.497535342">
+            <g id="files_PivotTable_PivotTable_16x">
+                <path d="M24.72,9.408 L1.68,9.408 C0.75216162,9.408 -1.08417175e-16,8.65583838 -2.22044605e-16,7.728 L4.4408921e-16,1.68 C3.3046178e-16,0.75216162 0.75216162,-5.16034596e-17 1.68,-2.22044605e-16 L24.72,0 C25.6478384,-1.70441145e-16 26.4,0.75216162 26.4,1.68 L26.4,7.728 C26.4,8.65583838 25.6478384,9.408 24.72,9.408 Z" id="iconBg-path"></path>
+            </g>
+        </g>
+        <g id="Group-11-Copy-2" transform="translate(31.437110, 28.895689) rotate(45.000000) translate(-31.437110, -28.895689) translate(26.437110, 13.395689)">
+            <g id="Group-10">
+                <polygon id="Triangle-2" fill="url(#linearGradient-2)" points="4.81158513 30.7941448 0 23.6327158 9.62317026 23.6327158"></polygon>
+                <polygon id="Rectangle-17" fill="url(#linearGradient-3)" points="0 3.55317056 9.62317026 3.55317056 9.62317026 23.6327158 0 23.6327158"></polygon>
+                <path d="M9.62317026,3.55317056 C9.62317026,1.59080865 7.46895022,0 4.81158513,0 C2.15422004,0 0,1.59080865 0,3.55317056 C4.81158513,3.55317056 4.81158513,3.55317056 9.62317026,3.55317056 Z" id="Combined-Shape" fill="#F5A623" opacity="0.802957589"></path>
+            </g>
+            <polygon id="Rectangle-18" fill="#FFFFFF" points="0 3.55317056 9.62317026 3.55317056 9.62317026 5.92195093 0 5.92195093"></polygon>
+        </g>
+    </g>
+</svg>
