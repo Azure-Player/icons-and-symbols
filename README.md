@@ -2,10 +2,16 @@
 
 ## Icons Library for DrawIO
 
-### Microsoft Fabric
+- [Microsoft Fabric (color)](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2FAzure-Player%2Ficons-and-symbols%2Frefs%2Fheads%2Fmaster%2FDrawIO-icons-library%2FMicrosoft%2520Fabric%2520(color).xml):
+The icon set of Microsoft Fabric (color)
+- [Microsoft Fabric (mono filled)](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2FAzure-Player%2Ficons-and-symbols%2Frefs%2Fheads%2Fmaster%2FDrawIO-icons-library%2FMicrosoft%2520Fabric%2520(mono%20filled).xml):
+The icon set of Microsoft Fabric (mono filled)
+- [Microsoft Fabric (mono regular)](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2FAzure-Player%2Ficons-and-symbols%2Frefs%2Fheads%2Fmaster%2FDrawIO-icons-library%2FMicrosoft%2520Fabric%2520(mono%20regular).xml):
+The icon set of Microsoft Fabric (mono regular)
 
-
-
+![Microsoft Fabric (color)](images/microsoft-fabric-color.png)
+![Microsoft Fabric (mono filled)](images/microsoft-fabric-mono-filled.png)
+![Microsoft Fabric (mono regular)](images/microsoft-fabric-mono-regular.png)
 
 ## Azure_Public_Service_Icons
 
