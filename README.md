@@ -13,7 +13,7 @@ The icon set of Microsoft Fabric (mono regular)
 ![Microsoft Fabric (mono filled)](images/microsoft-fabric-mono-filled.png)
 ![Microsoft Fabric (mono regular)](images/microsoft-fabric-mono-regular.png)
 
-- [Azure Data Factory](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2FAzure-Player%2Ficons-and-symbols%2Frefs%2Fheads%2Fmaster%2FDrawIO-icons-library%2Fazure-data-factory.xml):
+- [Azure Data Factory](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2FAzure-Player%2Ficons-and-symbols%2Frefs%2Fheads%2Fmaster%2FDrawIO-icons-library%2FAzure-Data-Factory.xml):
 The icon set of Azure Data Factory (Mapping Data Flow)
 
 ![Azure Data Factory](images/azure-data-factory.png)
