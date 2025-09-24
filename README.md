@@ -29,4 +29,5 @@ Please open the instructions that came with this symbol set to learn how to use 
 
 ## 🔨 Tools
 
-[Official Azure Icon Set](https://code.benco.io/icon-collection/azure-icons/)
+- [Other DrawIO libraries](https://github.com/jgraph/drawio-libs)  
+- [Official Azure Icon Set](https://code.benco.io/icon-collection/azure-icons/)
