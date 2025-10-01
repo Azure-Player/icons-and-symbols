@@ -2,7 +2,7 @@
 
 ## Icons Library for DrawIO
 
-- [Databricks (orange)](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fgithub.com%2FAzure-Player%2Ficons-and-symbols%2Fblob%2Fmaster%2FDrawIO-icons-library%2FDatabricks%2520(orange).xml): The icon set of Databricks items and logos (orange)
+- [Databricks (orange)](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2FAzure-Player%2Ficons-and-symbols%2Frefs%2Fheads%2Fmaster%2FDrawIO-icons-library%2FDatabricks%2520(orange).xml): The icon set of Databricks items and logos (orange)
 
 ![Databricks Icons](images/databricks-orange.png)
 
@@ -17,7 +17,7 @@ The icon set of Microsoft Fabric (mono regular)
 ![Microsoft Fabric (mono filled)](images/microsoft-fabric-mono-filled.png)
 ![Microsoft Fabric (mono regular)](images/microsoft-fabric-mono-regular.png)
 
-- [Microsoft Learn](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fgithub.com%2FAzure-Player%2Ficons-and-symbols%2Fblob%2Fmaster%2FDrawIO-icons-library%2FMicrosoft-Learn.xml): Various icons from Microsoft Learn modules
+- [Microsoft Learn](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2FAzure-Player%2Ficons-and-symbols%2Frefs%2Fheads%2Fmaster%2FDrawIO-icons-library%2FMicrosoft-Learn.xml): Various icons from Microsoft Learn modules
 
 ![Microsoft Learn](images/microsoft-learn.png)
 
