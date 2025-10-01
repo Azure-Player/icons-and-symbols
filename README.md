@@ -2,6 +2,10 @@
 
 ## Icons Library for DrawIO
 
+- [Databricks (orange)](https%3A%2F%2Fgithub.com%2FAzure-Player%2Ficons-and-symbols%2Fblob%2Fmaster%2FDrawIO-icons-library%2FDatabricks%2520(orange).xml): The icon set of Databricks items and logos (orange)
+
+![Databricks Icons](images/databricks-orange.png)
+
 - [Microsoft Fabric (color)](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2FAzure-Player%2Ficons-and-symbols%2Frefs%2Fheads%2Fmaster%2FDrawIO-icons-library%2FMicrosoft%2520Fabric%2520(color).xml):
 The icon set of Microsoft Fabric (color)
 - [Microsoft Fabric (mono filled)](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2FAzure-Player%2Ficons-and-symbols%2Frefs%2Fheads%2Fmaster%2FDrawIO-icons-library%2FMicrosoft%2520Fabric%2520(mono%20filled).xml):
@@ -12,6 +16,10 @@ The icon set of Microsoft Fabric (mono regular)
 ![Microsoft Fabric (color)](images/microsoft-fabric-color.png)
 ![Microsoft Fabric (mono filled)](images/microsoft-fabric-mono-filled.png)
 ![Microsoft Fabric (mono regular)](images/microsoft-fabric-mono-regular.png)
+
+- [Microsoft Learn](https%3A%2F%2Fgithub.com%2FAzure-Player%2Ficons-and-symbols%2Fblob%2Fmaster%2FDrawIO-icons-library%2FMicrosoft-Learn.xml): Various icons from Microsoft Learn modules
+
+![Microsoft Learn](images/microsoft-learn.png)
 
 - [Azure Data Factory](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2FAzure-Player%2Ficons-and-symbols%2Frefs%2Fheads%2Fmaster%2FDrawIO-icons-library%2FAzure-Data-Factory.xml):
 The icon set of Azure Data Factory (Mapping Data Flow)
